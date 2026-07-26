@@ -1,4 +1,4 @@
-# if-academy-general-http
+# Immersive Fusion Academy
 
 Source for **immersivefusion.academy** — the adult tier of the Immersive Fusion academy.
 
