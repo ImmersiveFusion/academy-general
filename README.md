@@ -10,7 +10,7 @@ The general-audience tier of the academy. Where adult-register essays about AI l
 
 The academy exists to give anyone — kid or adult — a way to think about AI that is neither fear-mongering nor salvation-mongering. The frame is AI as ally: useful, fallible, requiring your own judgment. We don't sell on these pages.
 
-A kids' tier sibling site exists at [kids.immersivefusion.academy](https://kids.immersivefusion.academy), built from [if-academy-kids-http](https://github.com/ImmersiveFusion/if-academy-kids-http).
+A kids' tier sibling site exists at [kids.immersivefusion.academy](https://kids.immersivefusion.academy), built from [academy-kids](https://github.com/ImmersiveFusion/academy-kids).
 
 ## License
 
@@ -42,7 +42,7 @@ Pushed to `main` deploys to **immersivefusion.academy** (root). Hosted by Immers
 
 ## Repository conventions
 
-This repository follows the `if-{property}-{type}-http` convention of [if-apm-documentation-http](https://github.com/ImmersiveFusion/if-apm-documentation-http) (the IF product documentation site). Sister repository: [if-academy-kids-http](https://github.com/ImmersiveFusion/if-academy-kids-http) for the kids' tier at `kids.immersivefusion.academy`.
+The `if-{property}-{type}-http` naming convention this repository was built under has been retired. It, the product documentation site, and the kids' tier have all since dropped the prefix and the suffix. Sister repository: [academy-kids](https://github.com/ImmersiveFusion/academy-kids) for the kids' tier at `kids.immersivefusion.academy`. The product documentation site, formerly `if-apm-documentation-http`, is now [deepcube-docs](https://github.com/ImmersiveFusion/deepcube-docs).
 
 ---
 
