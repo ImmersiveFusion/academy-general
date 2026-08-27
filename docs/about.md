@@ -32,7 +32,7 @@ We also publish a kids' tier at [kids.immersivefusion.academy](https://kids.imme
 
 ## Where this site lives
 
-The words on this site are kept on a website called GitHub, at [github.com/ImmersiveFusion/if-academy-general-http](https://github.com/ImmersiveFusion/if-academy-general-http). You don't need an account to use it.
+The words on this site are kept on a website called GitHub, at [github.com/ImmersiveFusion/academy-general](https://github.com/ImmersiveFusion/academy-general). You don't need an account to use it.
 
 For a reader who wants to engage more closely, this means three practical things:
 
