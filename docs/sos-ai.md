@@ -1,5 +1,5 @@
 ---
-title: The #sos-ai promise
+title: "The #sos-ai promise"
 diataxis: explanation
 tags: [explanation, charter]
 ---
@@ -10,7 +10,7 @@ tags: [explanation, charter]
 
 These are the words that govern the `#sos-ai` beacon, and this page is where they live. Anywhere else they appear, they appear because this page says them. If they change, they change here first.
 
-#sos-ai is the beacon pointed at the AI reckoning itself, and it belongs to the academies, not the product.
+\#sos-ai is the beacon pointed at the AI reckoning itself, and it belongs to the academies, not the product.
 
 When someone is frightened of AI, afraid of losing their work to it, or just trying in good faith to make sense of what is happening, the beacon surfaces that moment and a person from the academy shows up. A person, in their own words, disclosed as themselves. It never pitches, never sells, and never writes the reply. Surface is the only verb.
 
